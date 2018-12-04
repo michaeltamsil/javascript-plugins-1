@@ -29,6 +29,6 @@ $( document ).ready(function() {
     // put your code in here
     //
     $('#anime1').animateCss('flash', function(){
-        $('#anime2').animateCss('bounceInDown');
+        $('#anime2').animateCss('bounceInDown faster');
     });
 });
